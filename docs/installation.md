@@ -41,7 +41,7 @@ If you need change the default installation settings, see [configuration page](c
 Aztlan has a collection of alias to make environment management easier and faster. Load environment profile to your current shell:
 
 ```bash
-$ source /environment/profile
+$ source ./environment/profile
 ```
 
 [Click here](commands.md) to see the list of all commands.
